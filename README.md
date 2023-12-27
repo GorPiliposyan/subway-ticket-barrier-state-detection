@@ -1,6 +1,6 @@
 ## Railway Station Ticket Barrier Classification Model
 
-![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/banner_img.jpg)
+![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/banner_video.mp4)
 
 ### Task Description
 
