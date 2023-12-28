@@ -6,6 +6,10 @@
 
 The task aimed to create an open/closed classification model for ticket barriers ("gates") at railway stations. Some part of the images in the dataset used to build this model were provided privately, while the rest were acquired through web-scraping. The model's objective was to accurately determine whether a gate in an image is open or closed. It was crucial for the model to generalize well for unseen gate types, considering the provided data was only a subset of potential gate types.
 
+### Tech Stack
+
+**PyTorch**, **YOLOv8 by Ultralytics**, **OpenCV**
+
 ### Approach Overview
 
 - **Model Preparation Jupyter Notebook:** The process of creating the classification model was detailed in the `model_preparation.ipynb` notebook. This notebook includes comprehensive steps for data preparation, model training, and evaluation. Comments throughout the notebook elaborate on key decisions and metrics supporting the model's adequacy.
