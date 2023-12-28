@@ -1,6 +1,6 @@
 ## Railway Station Ticket Barrier Classification Model
 
-![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/banner_img.gif)
+![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/banner_img.gif)
 
 ### Task Description
 
@@ -8,7 +8,8 @@ The task aimed to create an open/closed classification model for ticket barriers
 
 ### Tech Stack
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/PyTorch_logo_icon.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/PyTorch_logo_icon.svg"/>
+
 **PyTorch**, **Ultralytics YOLOv8** and **OpenCV**
 
 ### Approach Overview
