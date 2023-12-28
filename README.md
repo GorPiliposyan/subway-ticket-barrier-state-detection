@@ -1,10 +1,5 @@
 ## Railway Station Ticket Barrier Classification Model
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/Python-logo-notext.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/PyTorch_logo_icon.svg"/>
-<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/UltralyticsYOLO_full_blue.svg"/>
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/OpenCV_Logo.svg"/>
-
 
 ![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/banner_img.gif)
 
@@ -13,6 +8,11 @@
 The task aimed to create an open/closed classification model for ticket barriers ("gates") at railway stations. Some part of the images in the dataset used to build this model were provided privately, while the rest were acquired through web-scraping. The model's objective was to accurately determine whether a gate in an image is open or closed. It was crucial for the model to generalize well for unseen gate types, considering the provided data was only a subset of potential gate types.
 
 ### Tech Stack
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/Python-logo-notext.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/PyTorch_logo_icon.svg"/>
+<img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/UltralyticsYOLO_full_blue.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/OpenCV_Logo.svg"/>
 
 - **Python**
 - **PyTorch**
