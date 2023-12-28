@@ -24,7 +24,7 @@ The task aimed to create an open/closed classification model for ticket barriers
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/OpenCV_Logo.svg"/>
   
 
-### 
+### .
 
 #
 
