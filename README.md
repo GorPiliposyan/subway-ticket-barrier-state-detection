@@ -50,5 +50,5 @@ The task aimed to create an open/closed classification model for ticket barriers
 
 **Extra files:**
 - `utils`: Folder with some helper functions I have used for "model_preparation.ipynb"
-- `data`: Folder with all the staged the dataset has been taken through
+- `data`: Dataset folder with the original and augmented images, split into train/val/test folders. (test images only in original folder)
 - `results.csv`: File with training related info per epoch. (*Used in `model_preparation.ipynb`*)
