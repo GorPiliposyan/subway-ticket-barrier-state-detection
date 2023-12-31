@@ -2,6 +2,7 @@
 
 
 ![Project Banner](https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/banner_img.gif)
+*Credits: Banner gif generated with DALL-E (text to image) and Runway (image to video).*
 
 ### Task Description
 
