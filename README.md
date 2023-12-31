@@ -10,6 +10,15 @@ The task aimed to create an open/closed classification model for ticket barriers
 
 #
 
+### Table of Contents
+
+- [Tech Stack](#Tech-Stack)
+- [Approach Overview](Approach-Overview)
+- [Deliverables](Deliverables)
+- [Web App](Web-App)
+
+
+#
 
 ### Tech Stack
 <img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/Python-logo-notext.svg"/>
@@ -38,6 +47,11 @@ The task aimed to create an open/closed classification model for ticket barriers
 
 #
 
+### Web App
+
+**Web application coming very soon!**
+
+#
 
 
 ### Deliverables
