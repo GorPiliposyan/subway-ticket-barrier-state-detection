@@ -5,6 +5,17 @@
 
 *Credits: Banner gif generated with DALL-E (text to image) and Runway (image to video).*
 
+
+### Table of Contents
+
+- [Task Description](Task-Description)
+- [Tech Stack](#Tech-Stack)
+- [Approach Overview](Approach-Overview)
+- [Deliverables](Deliverables)
+- [Web App](Web-App)
+
+#
+
 ### Task Description
 
 The task aimed to create an open/closed classification model for ticket barriers ("gates") at railway stations. Some part of the images in the dataset used to build this model were provided privately, while the rest were acquired through web-scraping. The model's objective was to accurately determine whether a gate in an image is open or closed. It was crucial for the model to generalize well for unseen gate types, considering the provided data was only a subset of potential gate types.
@@ -12,15 +23,6 @@ The task aimed to create an open/closed classification model for ticket barriers
 
 ---
 
-### Table of Contents
-
-- [Tech Stack](#Tech-Stack)
-- [Approach Overview](Approach-Overview)
-- [Deliverables](Deliverables)
-- [Web App](Web-App)
-
-
-#
 
 ### Tech Stack
 
