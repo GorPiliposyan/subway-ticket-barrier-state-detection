@@ -23,6 +23,7 @@ The task aimed to create an open/closed classification model for ticket barriers
 #
 
 ### Tech Stack
+
 <img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/Python-logo-notext.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/PyTorch_logo_icon.svg"/>
 <img align="left" alt="Java" width="100px" style="padding-right:20px;" src="https://github.com/GorPiliposyan/subway-ticket-barrier-state-detection/blob/main/Images/UltralyticsYOLO_full_blue.svg"/>
